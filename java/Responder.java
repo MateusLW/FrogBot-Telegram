@@ -31,11 +31,11 @@ public class Responder
     );
 
     respostas.add(1, 
-        "O meu criador, Mateus Lima, está graduando Sistemas de Informação na UTFPR,atualmente no terceiro período. Apesar de não estar a muito tempo na faculdade, ele buscou diversos conhecimentos por fora, realizando cursos, onde aprendeu HTML, CSS, JavaScript e SQL, e também participando de projetos, como GameJams e no meu próprio desenvolvimento! Com isso Mateus desenvolveu um amplo conhecimento com linguagens como Java, C#, C++, C e Python. Agora seu objetivo é conseguir um estágio para continuar sua evolução como programador!🤖 "
+        "O meu criador, Mateus Lima, está graduando Sistemas de Informação na UTFPR,atualmente no terceiro período. Apesar de não estar há muito tempo na faculdade, ele buscou diversos conhecimentos por fora, realizando cursos, onde aprendeu HTML, CSS, JavaScript e SQL, e também participando de projetos, como GameJams e no meu próprio desenvolvimento! Com isso Mateus desenvolveu um amplo conhecimento com linguagens como Java, C#, C++, C e Python. Agora seu objetivo é conseguir um estágio para continuar sua evolução como programador!🤖 "
     );
 
     respostas.add(2, 
-        "Por enquanto como projeto público só existe eu, porém fiquei sabendo que novos projetos já estão sendo desenvolvidos, então fica de olho no portifólio/github dele 👀 https://github.com/MateusLW"
+        "Por enquanto como projeto público só existe eu, porém fiquei sabendo que novos projetos já estão sendo desenvolvidos, então fica de olho no portfólio/github dele 👀 https://github.com/MateusLW"
     );
 
     respostas.add(3, 
@@ -46,3 +46,4 @@ public class Responder
         
     }
 }
+
