@@ -35,7 +35,7 @@ public class Responder
     );
 
     respostas.add(2, 
-        "Por enquanto como projeto público só existe eu, porém fiquei sabendo que novos projetos já estão sendo desenvolvidos, então fica de olho no portfólio/github dele 👀 https://github.com/MateusLW"
+        "Por enquanto como projeto público só existe eu, porém fiquei sabendo que novos projetos já estão sendo desenvolvidos! Então fica de olho no portfólio/github dele 👀 https://github.com/MateusLW"
     );
 
     respostas.add(3, 
@@ -46,4 +46,5 @@ public class Responder
         
     }
 }
+
 
