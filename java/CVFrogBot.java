@@ -30,7 +30,7 @@ public class CVFrogBot extends TelegramLongPollingBot
     @Override
     public String getBotToken() 
     {
-        return ("7990639680:AAGnDsFMafNKKDmooQrdOdROaEwHDqe-3EM");
+        return ("BOT_TOKEN");
     }    
     
     @Override
