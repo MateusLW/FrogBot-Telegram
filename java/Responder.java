@@ -1,11 +1,10 @@
 package chatbot.java;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Responder 
 {
-    private final List<String> respostas;
+    private final ArrayList<String> respostas;
 
 
     public Responder() 
@@ -46,5 +45,6 @@ public class Responder
         
     }
 }
+
 
 
