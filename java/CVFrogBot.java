@@ -76,13 +76,7 @@ public class CVFrogBot extends TelegramLongPollingBot
     private InlineKeyboardMarkup createSubMenuKeyboard(int choice) {
         return switch (choice) 
         {
-            case 1 -> null; // LINEUP - Não precisa de sub-botões
-            case 2 -> createStoreSubMenu();// LOJA
-            case 3 -> createGamesSubMenu();// JOGOS
-            case 4 -> null; // SUPORTE (sub-opção da LOJA)
-            case 5 -> null; // COLLABS (sub-opção da LOJA)
-            case 6 -> null; // PROXIMO_JOGO (sub-opção de JOGOS)
-            case 7 -> null; // ULTIMO_RESULTADO (sub-opção de JOGOS)
+            // Se tiver adicionar cases
             default -> null; // Menu principal ou outros
         };
     }
@@ -181,4 +175,5 @@ public class CVFrogBot extends TelegramLongPollingBot
             LOGGER.log(Level.SEVERE, "Falha ao enviar mensagem de erro", e);
         }
     }
+
 }
